@@ -15,3 +15,4 @@ Lógica De Programação / JavaScript
             Data - date
             Objeto - object
 
+Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
