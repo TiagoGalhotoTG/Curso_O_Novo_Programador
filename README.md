@@ -14,5 +14,5 @@ Lógica De Programação / JavaScript
             Números com casas decimais - float 10.50, 15.60
             Data - date
             Objeto - object
-
-Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
+            
+            Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
