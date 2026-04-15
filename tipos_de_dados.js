@@ -1,7 +1,17 @@
-{
-    nome: "Tiago Galhoto",
-    email: "tiagogalhoto2@gmail.com",
-    telefone: 41999860633,
-    ativo: true,
-    data_de_inscricao: "14/10/1992"
-}
+[   
+   {
+        nome: "Tiago Galhoto",
+        email: "tiagogalhoto2@gmail.com",
+        telefone: 41999860633,
+        ativo: true,
+        data_de_inscricao: "14/10/1992"
+   },
+
+   {
+        nome: "Fabrini De Souza",
+        email: "fabrinisouza@yahoo.com.br",
+        telefone: 41990852169,
+        ativo: false,
+        data_de_inscricao: "08/07/1996"
+   }
+]
