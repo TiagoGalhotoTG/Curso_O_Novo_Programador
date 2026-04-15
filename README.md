@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 Mês 1 - Fundamentos Da Programação + Web
 
 Semana 1.
-=======
+
     Semana 1
->>>>>>> 21dba8b9a1a05c974b40b000c5c97837d40bbf3c
+
 
     Curso O Novo Programdor
 
@@ -13,8 +13,7 @@ Semana 1.
         Tipos De Dados
 
             Trata-se de diretriz de carácter global, adotada como padrão em todas as linguagens de programação.
-
-<<<<<<< HEAD
+            
             Textos - string
             Números inteiros - number - int
             flags - boolean - verdeiro ou falso - true e false
