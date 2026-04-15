@@ -1,8 +1,6 @@
 
- Mês 1 - Fundamentos Da Programação + Web
-
- Semana 1.
-
+    Mês 1 - Fundamentos Da Programação + Web
+ 
     Semana 1
 
 
@@ -24,13 +22,13 @@
 
         Um objeto consiste em um conjunto de dados estruturados na forma de pares compostos por chave e valor, 
         separados por dois pontos.
- Exercício:
+    Exercício:
 
- 1 - Pesquise e Liste todos os tipos de dados que a linguagem JavaScript aceita?
+    1 - Pesquise e Liste todos os tipos de dados que a linguagem JavaScript aceita?
 
- R:
+    R:
 
- Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
+    Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
 
                 Textos - string
                 Números inteiros - number - int
