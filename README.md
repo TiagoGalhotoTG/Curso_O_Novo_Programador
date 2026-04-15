@@ -24,7 +24,6 @@ Semana 1.
 
         Um objeto consiste em um conjunto de dados estruturados na forma de pares compostos por chave e valor, 
         separados por dois pontos.
-
 Exercício:
 
 1 - Pesquise e Liste todos os tipos de dados que a linguagem JavaScript aceita?
@@ -32,7 +31,7 @@ Exercício:
 R:
 
 Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
-=======
+
                 Textos - string
                 Números inteiros - number - int
                 flags - boolean - verdeiro ou falso - true e false
@@ -41,4 +40,4 @@ Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
                 Objeto - object
                 
                 Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
->>>>>>> 21dba8b9a1a05c974b40b000c5c97837d40bbf3c
+
