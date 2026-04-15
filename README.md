@@ -1,15 +1,20 @@
+<<<<<<< HEAD
 Mês 1 - Fundamentos Da Programação + Web
 
 Semana 1.
+=======
+    Semana 1
+>>>>>>> 21dba8b9a1a05c974b40b000c5c97837d40bbf3c
 
-Curso O Novo Programdor
+    Curso O Novo Programdor
 
-Lógica De Programação / JavaScript
+    Lógica De Programação / JavaScript
 
-    Tipos De Dados
+        Tipos De Dados
 
-        Trata-se de diretriz de carácter global, adotada como padrão em todas as linguagens de programação.
+            Trata-se de diretriz de carácter global, adotada como padrão em todas as linguagens de programação.
 
+<<<<<<< HEAD
             Textos - string
             Números inteiros - number - int
             flags - boolean - verdeiro ou falso - true e false
@@ -28,3 +33,13 @@ Exercício:
 R:
 
 Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
+=======
+                Textos - string
+                Números inteiros - number - int
+                flags - boolean - verdeiro ou falso - true e false
+                Números com casas decimais - float 10.50, 15.60
+                Data - date
+                Objeto - object
+                
+                Nome, E-mail, Telefone, Ativo, Data_de_inscricao.
+>>>>>>> 21dba8b9a1a05c974b40b000c5c97837d40bbf3c
